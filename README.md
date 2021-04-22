@@ -4,5 +4,3 @@
 - 👯 Open to collaborating on projects
 
 
-
-![Metrics](./github-metrics.svg)
