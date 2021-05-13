@@ -3,3 +3,5 @@
 - :evergreen_tree: Experienced in C#, Python, Java, and Javascript
 - 👯 Open to collaborating on projects
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
