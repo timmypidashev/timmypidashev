@@ -5,9 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2021 - 19 May, 2021
+Week: 13 May, 2021 - 20 May, 2021
 
-Python       5 hrs 26 mins   ███████████████████████▓░   94.88 % 
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python   3 hrs 56 mins   ███████████████████████▒░   93.28 % 
+JSON     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 <!--END_SECTION:waka-->
