@@ -5,6 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 May, 2021 - 25 May, 2021
+
+Python   2 hrs 56 mins   ██████████████████████▒░░   89.57 % 
+Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+XML      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
