@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 20 July, 2021 - 26 July, 2021
 
-JavaScript   7 hrs 58 mins   ████████████░░░░░░░░░░░░░   48.02 % 
-Python       7 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   47.02 % 
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript   10 hrs 1 min    █████████████░░░░░░░░░░░░   52.64 % 
+Python       7 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   41.46 % 
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
