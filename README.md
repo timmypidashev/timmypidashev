@@ -6,10 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
-Python   47 mins         ██████████████████░░░░░░░   72.30 % 
-YAML     10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-HTML     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Python   31 mins         ██████████████████▓░░░░░░   74.20 % 
+YAML     10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
 ```
 <!--END_SECTION:waka-->
