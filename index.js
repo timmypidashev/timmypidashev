@@ -15,16 +15,21 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
-- :adult: My name is Timothy Pidashev! I am a 17 year old striving to learn anything and everything about software development!
-- :evergreen_tree: Experienced in C#, Python, Java, and Javascript
-- 👯 Open to collaborating on projects
-- ✨ [Join my Discord server](https://discord.gg/EDRjZdkGBG)
+
+```c
+#include <stdio.h>
+
+int main(){
+  printf("My name is Timothy Pidashev! I am a 17 year on an epic journey to become a software developer!");
+  printf("Experienced in C, Python, Java, and Javascript")
+  printf("Join my discord server: https://discord.gg/EDRjZdkGBG");
+  return 0;
+}
+```
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
+
 `
 console.log(readme)
