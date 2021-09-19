@@ -11,4 +11,11 @@ int main(){
 ```
 
 <!--START_SECTION:waka-->
+```text
+Week: 12 September, 2021 - 18 September, 2021
+
+C++          1 hr 2 mins     ████████████▓░░░░░░░░░░░░   50.48 % 
+HTML         52 mins         ██████████▓░░░░░░░░░░░░░░   42.23 % 
+Bash         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
 <!--END_SECTION:waka-->
