@@ -12,12 +12,12 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-HTML          52 mins         ██████████████▓░░░░░░░░░░   58.52 % 
-C++           18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.21 % 
-CMake         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Objective-C   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Git Config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+HTML          52 mins         █████████████████░░░░░░░░   67.68 % 
+CMake         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+C++           6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Objective-C   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Git Config    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 <!--END_SECTION:waka-->
