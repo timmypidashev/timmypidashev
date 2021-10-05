@@ -12,12 +12,12 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
-CMake    5 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.67 % 
-Python   4 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.18 % 
-C++      2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-CSS      1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-HTML     1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python   4 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   39.11 % 
+CMake    2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.71 % 
+C++      2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 % 
+HTML     1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+CSS      1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
 <!--END_SECTION:waka-->
