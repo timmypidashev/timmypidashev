@@ -12,7 +12,7 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
 CMake   3 hrs 49 mins   ███████████████▓░░░░░░░░░   62.92 % 
 C++     1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.47 % 
