@@ -12,10 +12,9 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2021 - 19 October, 2021
+Week: 14 October, 2021 - 20 October, 2021
 
-CSS     23 mins         █████████████░░░░░░░░░░░░   51.61 % 
-HTML    19 mins         ███████████░░░░░░░░░░░░░░   43.54 % 
-CMake   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Python   4 mins          █████████████████░░░░░░░░   67.82 % 
+CMake    2 mins          ████████░░░░░░░░░░░░░░░░░   32.18 % 
 ```
 <!--END_SECTION:waka-->
