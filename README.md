@@ -12,7 +12,7 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2021 - 20 October, 2021
+Week: 15 October, 2021 - 21 October, 2021
 
 Python   4 mins          █████████████████░░░░░░░░   67.82 % 
 CMake    2 mins          ████████░░░░░░░░░░░░░░░░░   32.18 % 
