@@ -12,7 +12,7 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
 Markdown   47 mins         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
 CMake      45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
