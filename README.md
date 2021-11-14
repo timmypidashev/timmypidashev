@@ -12,12 +12,12 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
-Python       8 hrs 14 mins   █████████████▒░░░░░░░░░░░   53.51 % 
-JavaScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-CMake        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-HTML         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-SQL          51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python       6 hrs 49 mins   ████████████░░░░░░░░░░░░░   47.37 % 
+CMake        2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
+JavaScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+C            52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+SQL          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 <!--END_SECTION:waka-->
