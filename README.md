@@ -11,12 +11,12 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-Python       17 hrs 11 mins  ███████████████████████░░   92.09 % 
-Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python       16 hrs 24 mins  ███████████████████████░░   91.62 % 
+Bash         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
