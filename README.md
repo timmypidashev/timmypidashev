@@ -11,12 +11,12 @@ int main(){
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
-Python   27 hrs 46 mins  ████████████████████▒░░░░   81.14 % 
-SQL      2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Docker   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Bash     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Other    50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python       26 hrs 54 mins  █████████████████████░░░░   84.50 % 
+SQL          1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Docker       1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JavaScript   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
