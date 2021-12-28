@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/b920b284-3cde-4cd4-b72e-f7f22d050b16.svg)](https://wakatime.com/@b920b284-3cde-4cd4-b72e-f7f22d050b16)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-256-blue)
 ```c
 #include <stdio.h>
 
@@ -10,10 +12,6 @@ int main(){
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-256-blue)
-
 **I'm an Early 🐤** 
 
 ```text
