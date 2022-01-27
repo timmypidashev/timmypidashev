@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/b920b284-3cde-4cd4-b72e-f7f22d050b16.svg)](https://wakatime.com/@b920b284-3cde-4cd4-b72e-f7f22d050b16)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-256-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1500-blue)
 ```c
 #include <stdio.h>
 
