@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/b920b284-3cde-4cd4-b72e-f7f22d050b16.svg)](https://wakatime.com/@b920b284-3cde-4cd4-b72e-f7f22d050b16)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-856-blue)
+
 ```c
 #include <stdio.h>
 
@@ -69,3 +70,4 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+![Snake animation](https://raw.githubusercontent.com/timmypidashev/timmypidashev/main/commits.svg)
