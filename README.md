@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/b920b284-3cde-4cd4-b72e-f7f22d050b16.svg)](https://wakatime.com/@b920b284-3cde-4cd4-b72e-f7f22d050b16)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-856-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--440%20Thousand%20lines%20of%20code-blue)
@@ -12,9 +13,6 @@ int main(){
   return 0;
 }
 ```
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--440%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
