@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/b920b284-3cde-4cd4-b72e-f7f22d050b16.svg)](https://wakatime.com/@b920b284-3cde-4cd4-b72e-f7f22d050b16)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4586-blue)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--288%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--638%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,7 +48,7 @@ Linux                    9 hrs 58 mins       ███████████�
 
 ```text
 Python                   18 repos            ██████████░░░░░░░░░░░░░░░   40.91% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 CMake                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
