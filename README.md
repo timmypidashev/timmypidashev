@@ -28,14 +28,13 @@ Sunday                   724 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      22 mins             █████████████████████████   98.30 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
