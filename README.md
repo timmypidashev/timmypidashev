@@ -1,53 +1,57 @@
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.74%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                4392 commits        ████████░░░░░░░░░░░░░░░░░   31.34 %
-🌆 Daytime                5191 commits        █████████░░░░░░░░░░░░░░░░   37.04 %
-🌃 Evening                3841 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 %
-🌙 Night                  591 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   2834 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Tuesday                  3320 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-Wednesday                2108 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Thursday                 1643 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Friday                   1082 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Saturday                 2193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Sunday                   835 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+🌞 Morning                4395 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌆 Daytime                5191 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌃 Evening                3841 commits        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌙 Night                  591 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
-
-📊 **This Week I Spent My Time On**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-💬 Programming Languages:
-Python                   1 hr 44 mins        █████████████░░░░░░░░░░░░   51.56 %
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
-Lua                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-
-🔥 Editors:
-Unknown Editor           2 hrs 54 mins       █████████████████████░░░░   85.47 %
-Neovim                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 %
-
-💻 Operating System:
-Mac                      3 hrs 23 mins       █████████████████████████   100.00 %
+Monday                   2834 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Tuesday                  3323 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Wednesday                2108 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 1643 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Friday                   1082 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Saturday                 2193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Sunday                   835 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 
-**I Mostly Code in Python**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
-C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+💬 Programming Languages: 
+Astro                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Python                   1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+TypeScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+markdown.mdx             44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+
+🔥 Editors: 
+Unknown Editor           6 hrs 24 mins       █████████████████████░░░░   83.70 % 
+Neovim                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+
+💻 Operating System: 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
+
+**I Mostly Code in Python** 
+
+```text
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+
+
+
 
 <!--END_SECTION:waka-->
 
