@@ -1,22 +1,22 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.36%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4552 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌆 Daytime                5325 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
-🌃 Evening                3884 commits        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌞 Morning                4552 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌆 Daytime                5328 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
+🌃 Evening                3884 commits        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 🌙 Night                  614 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2922 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Tuesday                  3441 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Monday                   2922 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Tuesday                  3441 commits        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
 Wednesday                2123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Thursday                 1701 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Friday                   1121 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Friday                   1124 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Saturday                 2205 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 Sunday                   862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
@@ -26,18 +26,18 @@ Sunday                   862 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-OpenEdge ABL             2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-XML                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
+OpenEdge ABL             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+XML                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 58 mins       ████████████████████████░   97.11 % 
-Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Claude Code              7 hrs 55 mins       ████████████████████████░   97.16 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Mac                      10 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
