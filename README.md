@@ -26,18 +26,18 @@ Sunday                   862 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-OpenEdge ABL             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-XML                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+OpenEdge ABL             1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+XML                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 55 mins       ████████████████████████░   97.16 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Claude Code              8 hrs 58 mins       █████████████████████████   98.97 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
