@@ -28,40 +28,40 @@ Sunday                   870 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-XML                      3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-Markdown                 3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-OpenEdge ABL             1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-fish                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+XML                      2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Markdown                 2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+OpenEdge ABL             1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+fish                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 48 mins      ██████████████████████░░░   87.26 % 
-Neovim                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Claude Code              8 hrs 45 mins       █████████████████████░░░░   84.99 % 
+Neovim                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 
 💻 Operating System: 
-Mac                      12 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 57 mins (88.43%)
+⏱ AI Coding Time: 8 hrs 53 mins (86.32%)
 
-✍️ 7,878 lines written by AI, 28 lines written by hand (99.65% AI-written)
+✍️ 6,502 lines written by AI, 28 lines written by hand (99.57% AI-written)
 
-🔤 205,340,048 Input Tokens, 975,700 Output Tokens
+🔤 160,263,500 Input Tokens, 691,410 Output Tokens
 
-💵 $630.66 Estimated AI Cost This Week
+💵 $491.16 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 40 AI Prompts
+🧠 5 AI Sessions, 35 AI Prompts
 
-Claude                   8,098 lines         █████████████████████████   100.00 % 
+Claude                   6,635 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📚 Verbose Prompter — average 1,593 characters per prompt
+🤖 AI-Driven — 99.57% of written lines came from AI
+📚 Verbose Prompter — average 1,784 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
