@@ -28,39 +28,19 @@ Sunday                   869 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   51 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Markdown                 36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-OpenEdge ABL             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (100.0%)
-
-✍️ 1,184 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,077,773 Input Tokens, 332,969 Output Tokens
-
-💵 $21.68 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 50 AI Prompts
-
-Opus                     1,184 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,096 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
